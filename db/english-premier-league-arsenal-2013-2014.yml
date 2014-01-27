@@ -1,0 +1,267 @@
+---
+- :number: 1
+  :date: 2013-08-17
+  :opponent: Aston Villa
+  :venue: home
+  :result: loss
+  :position: 18
+  :points: 0
+- :number: 2
+  :date: 2013-08-24
+  :opponent: Fulham
+  :venue: away
+  :result: win
+  :position: 8
+  :points: 3
+- :number: 3
+  :date: 2013-09-01
+  :opponent: Tottenham Hotspur
+  :venue: home
+  :result: win
+  :position: 4
+  :points: 6
+- :number: 4
+  :date: 2013-09-14
+  :opponent: Sunderland
+  :venue: away
+  :result: win
+  :position: 1
+  :points: 9
+- :number: 5
+  :date: 2013-09-22
+  :opponent: Stoke City
+  :venue: home
+  :result: win
+  :position: 1
+  :points: 12
+- :number: 6
+  :date: 2013-09-28
+  :opponent: Swansea City
+  :venue: away
+  :result: win
+  :position: 1
+  :points: 15
+- :number: 7
+  :date: 2013-10-06
+  :opponent: West Bromwich Albion
+  :venue: away
+  :result: draw
+  :position: 1
+  :points: 16
+- :number: 8
+  :date: 2013-10-19
+  :opponent: Norwich City
+  :venue: home
+  :result: win
+  :position: 1
+  :points: 19
+- :number: 9
+  :date: 2013-10-26
+  :opponent: Crystal Palace
+  :venue: away
+  :result: win
+  :position: 1
+  :points: 22
+- :number: 10
+  :date: 2013-11-02
+  :opponent: Liverpool
+  :venue: home
+  :result: win
+  :position: 1
+  :points: 25
+- :number: 11
+  :date: 2013-11-10
+  :opponent: Manchester United
+  :venue: away
+  :result: loss
+  :position: 1
+  :points: 25
+- :number: 12
+  :date: 2013-11-23
+  :opponent: Southampton
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 13
+  :date: 2013-11-30
+  :opponent: Cardiff City
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 14
+  :date: 2013-12-04
+  :opponent: Hull City
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 15
+  :date: 2013-12-08
+  :opponent: Everton
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 16
+  :date: 2013-12-14
+  :opponent: Manchester City
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 17
+  :date: 2013-12-23
+  :opponent: Chelsea
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 18
+  :date: 2013-12-26
+  :opponent: West Ham United
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 19
+  :date: 2013-12-29
+  :opponent: Newcastle United
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 20
+  :date: 2014-01-01
+  :opponent: Cardiff City
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 21
+  :date: 2014-01-13
+  :opponent: Aston Villa
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 22
+  :date: 2014-01-18
+  :opponent: Fulham
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 23
+  :date: 2014-01-28
+  :opponent: Southampton
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 24
+  :date: 2014-02-01
+  :opponent: Crystal Palace
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 25
+  :date: 2014-02-08
+  :opponent: Liverpool
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 26
+  :date: 2014-02-11
+  :opponent: Manchester United
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 27
+  :date: 2014-02-22
+  :opponent: Sunderland
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 28
+  :date: 2014-03-01
+  :opponent: Stoke City
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 29
+  :date: 2014-03-08
+  :opponent: Swansea City
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 30
+  :date: 2014-03-15
+  :opponent: Tottenham Hotspur
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 31
+  :date: 2014-03-22
+  :opponent: Chelsea
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 32
+  :date: 2014-03-29
+  :opponent: Manchester City
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 33
+  :date: 2014-04-05
+  :opponent: Everton
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 34
+  :date: 2014-04-12
+  :opponent: West Ham United
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 35
+  :date: 2014-04-19
+  :opponent: Hull City
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 36
+  :date: 2014-04-26
+  :opponent: Newcastle United
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 37
+  :date: 2014-05-03
+  :opponent: West Bromwich Albion
+  :venue: home
+  :result: 
+  :position: 0
+  :points: 0
+- :number: 38
+  :date: 2014-05-11
+  :opponent: Norwich City
+  :venue: away
+  :result: 
+  :position: 0
+  :points: 0

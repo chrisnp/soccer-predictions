@@ -1,0 +1,267 @@
+---
+- :number: 1
+  :date: 2012-08-18
+  :opponent: Sunderland
+  :venue: home
+  :result: draw
+  :position: 8
+  :points: 1
+- :number: 2
+  :date: 2012-08-26
+  :opponent: Stoke City
+  :venue: away
+  :result: draw
+  :position: 12
+  :points: 2
+- :number: 3
+  :date: 2012-09-02
+  :opponent: Liverpool
+  :venue: away
+  :result: win
+  :position: 8
+  :points: 5
+- :number: 4
+  :date: 2012-09-15
+  :opponent: Southampton
+  :venue: home
+  :result: win
+  :position: 3
+  :points: 8
+- :number: 5
+  :date: 2012-09-23
+  :opponent: Manchester City
+  :venue: away
+  :result: draw
+  :position: 5
+  :points: 9
+- :number: 6
+  :date: 2012-09-29
+  :opponent: Chelsea
+  :venue: home
+  :result: loss
+  :position: 7
+  :points: 9
+- :number: 7
+  :date: 2012-10-06
+  :opponent: West Ham United
+  :venue: away
+  :result: win
+  :position: 5
+  :points: 12
+- :number: 8
+  :date: 2012-10-20
+  :opponent: Norwich City
+  :venue: away
+  :result: loss
+  :position: 9
+  :points: 12
+- :number: 9
+  :date: 2012-10-27
+  :opponent: Queens Park Rangers
+  :venue: home
+  :result: win
+  :position: 4
+  :points: 15
+- :number: 10
+  :date: 2012-11-03
+  :opponent: Manchester United
+  :venue: away
+  :result: loss
+  :position: 6
+  :points: 15
+- :number: 11
+  :date: 2012-11-10
+  :opponent: Fulham
+  :venue: home
+  :result: draw
+  :position: 7
+  :points: 16
+- :number: 12
+  :date: 2012-11-17
+  :opponent: Tottenham Hotspur
+  :venue: home
+  :result: win
+  :position: 6
+  :points: 19
+- :number: 13
+  :date: 2012-11-24
+  :opponent: Aston Villa
+  :venue: away
+  :result: draw
+  :position: 6
+  :points: 20
+- :number: 14
+  :date: 2012-11-28
+  :opponent: Everton
+  :venue: away
+  :result: draw
+  :position: 7
+  :points: 21
+- :number: 15
+  :date: 2012-12-01
+  :opponent: Swansea City
+  :venue: home
+  :result: loss
+  :position: 10
+  :points: 21
+- :number: 16
+  :date: 2012-12-08
+  :opponent: West Bromwich Albion
+  :venue: home
+  :result: win
+  :position: 6
+  :points: 24
+- :number: 17
+  :date: 2012-12-17
+  :opponent: Reading
+  :venue: away
+  :result: win
+  :position: 5
+  :points: 27
+- :number: 18
+  :date: 2012-12-22
+  :opponent: Wigan Athletic
+  :venue: away
+  :result: win
+  :position: 3
+  :points: 30
+- :number: 19
+  :date: 2012-12-29
+  :opponent: Newcastle United
+  :venue: home
+  :result: win
+  :position: 5
+  :points: 33
+- :number: 20
+  :date: 2013-01-01
+  :opponent: Southampton
+  :venue: away
+  :result: draw
+  :position: 5
+  :points: 34
+- :number: 21
+  :date: 2013-01-13
+  :opponent: Manchester City
+  :venue: home
+  :result: loss
+  :position: 6
+  :points: 34
+- :number: 22
+  :date: 2013-01-20
+  :opponent: Chelsea
+  :venue: away
+  :result: loss
+  :position: 6
+  :points: 34
+- :number: 23
+  :date: 2013-01-23
+  :opponent: West Ham United
+  :venue: home
+  :result: win
+  :position: 6
+  :points: 37
+- :number: 24
+  :date: 2013-01-30
+  :opponent: Liverpool
+  :venue: home
+  :result: draw
+  :position: 6
+  :points: 38
+- :number: 25
+  :date: 2013-02-02
+  :opponent: Stoke City
+  :venue: home
+  :result: win
+  :position: 6
+  :points: 41
+- :number: 26
+  :date: 2013-02-09
+  :opponent: Sunderland
+  :venue: away
+  :result: win
+  :position: 5
+  :points: 44
+- :number: 27
+  :date: 2013-02-23
+  :opponent: Aston Villa
+  :venue: home
+  :result: win
+  :position: 5
+  :points: 47
+- :number: 28
+  :date: 2013-03-03
+  :opponent: Tottenham Hotspur
+  :venue: away
+  :result: loss
+  :position: 5
+  :points: 47
+- :number: 29
+  :date: 2013-03-16
+  :opponent: Swansea City
+  :venue: away
+  :result: win
+  :position: 5
+  :points: 50
+- :number: 30
+  :date: 2013-03-30
+  :opponent: Reading
+  :venue: home
+  :result: win
+  :position: 5
+  :points: 53
+- :number: 31
+  :date: 2013-04-06
+  :opponent: West Bromwich Albion
+  :venue: away
+  :result: win
+  :position: 4
+  :points: 56
+- :number: 32
+  :date: 2013-04-13
+  :opponent: Norwich City
+  :venue: home
+  :result: win
+  :position: 3
+  :points: 59
+- :number: 33
+  :date: 2013-04-16
+  :opponent: Everton
+  :venue: home
+  :result: draw
+  :position: 3
+  :points: 60
+- :number: 34
+  :date: 2013-04-20
+  :opponent: Fulham
+  :venue: away
+  :result: win
+  :position: 3
+  :points: 63
+- :number: 35
+  :date: 2013-04-28
+  :opponent: Manchester United
+  :venue: home
+  :result: draw
+  :position: 4
+  :points: 64
+- :number: 36
+  :date: 2013-05-04
+  :opponent: Queens Park Rangers
+  :venue: away
+  :result: win
+  :position: 3
+  :points: 67
+- :number: 37
+  :date: 2013-05-14
+  :opponent: Wigan Athletic
+  :venue: home
+  :result: win
+  :position: 4
+  :points: 70
+- :number: 38
+  :date: 2013-05-19
+  :opponent: Newcastle United
+  :venue: away
+  :result: win
+  :position: 4
+  :points: 73

@@ -1,0 +1,267 @@
+---
+- :number: 1
+  :date: 2011-08-13
+  :opponent: Newcastle United
+  :venue: away
+  :result: draw
+  :position: 7
+  :points: 1
+- :number: 2
+  :date: 2011-08-20
+  :opponent: Liverpool
+  :venue: home
+  :result: loss
+  :position: 15
+  :points: 1
+- :number: 3
+  :date: 2011-08-28
+  :opponent: Manchester United
+  :venue: away
+  :result: loss
+  :position: 17
+  :points: 1
+- :number: 4
+  :date: 2011-09-10
+  :opponent: Swansea City
+  :venue: home
+  :result: win
+  :position: 11
+  :points: 4
+- :number: 5
+  :date: 2011-09-17
+  :opponent: Blackburn Rovers
+  :venue: away
+  :result: loss
+  :position: 15
+  :points: 4
+- :number: 6
+  :date: 2011-09-24
+  :opponent: Bolton Wanderers
+  :venue: home
+  :result: win
+  :position: 12
+  :points: 7
+- :number: 7
+  :date: 2011-10-02
+  :opponent: Tottenham Hotspur
+  :venue: away
+  :result: loss
+  :position: 15
+  :points: 7
+- :number: 8
+  :date: 2011-10-16
+  :opponent: Sunderland
+  :venue: home
+  :result: win
+  :position: 10
+  :points: 10
+- :number: 9
+  :date: 2011-10-23
+  :opponent: Stoke City
+  :venue: home
+  :result: win
+  :position: 7
+  :points: 13
+- :number: 10
+  :date: 2011-10-29
+  :opponent: Chelsea
+  :venue: away
+  :result: win
+  :position: 7
+  :points: 16
+- :number: 11
+  :date: 2011-11-05
+  :opponent: West Bromwich Albion
+  :venue: home
+  :result: win
+  :position: 7
+  :points: 19
+- :number: 12
+  :date: 2011-11-19
+  :opponent: Norwich City
+  :venue: away
+  :result: win
+  :position: 6
+  :points: 22
+- :number: 13
+  :date: 2011-11-26
+  :opponent: Fulham
+  :venue: home
+  :result: draw
+  :position: 6
+  :points: 23
+- :number: 14
+  :date: 2011-12-03
+  :opponent: Wigan Athletic
+  :venue: away
+  :result: win
+  :position: 5
+  :points: 26
+- :number: 15
+  :date: 2011-12-10
+  :opponent: Everton
+  :venue: home
+  :result: win
+  :position: 4
+  :points: 29
+- :number: 16
+  :date: 2011-12-18
+  :opponent: Manchester City
+  :venue: away
+  :result: loss
+  :position: 5
+  :points: 29
+- :number: 17
+  :date: 2011-12-21
+  :opponent: Aston Villa
+  :venue: away
+  :result: win
+  :position: 5
+  :points: 32
+- :number: 18
+  :date: 2011-12-27
+  :opponent: Wolverhampton Wndrs
+  :venue: home
+  :result: draw
+  :position: 5
+  :points: 33
+- :number: 19
+  :date: 2011-12-31
+  :opponent: Queens Park Rangers
+  :venue: home
+  :result: win
+  :position: 4
+  :points: 36
+- :number: 20
+  :date: 2012-01-02
+  :opponent: Fulham
+  :venue: away
+  :result: loss
+  :position: 5
+  :points: 36
+- :number: 21
+  :date: 2012-01-15
+  :opponent: Swansea City
+  :venue: away
+  :result: loss
+  :position: 5
+  :points: 36
+- :number: 22
+  :date: 2012-01-22
+  :opponent: Manchester United
+  :venue: home
+  :result: loss
+  :position: 5
+  :points: 36
+- :number: 23
+  :date: 2012-02-01
+  :opponent: Bolton Wanderers
+  :venue: away
+  :result: draw
+  :position: 7
+  :points: 37
+- :number: 24
+  :date: 2012-02-04
+  :opponent: Blackburn Rovers
+  :venue: home
+  :result: win
+  :position: 5
+  :points: 40
+- :number: 25
+  :date: 2012-02-11
+  :opponent: Sunderland
+  :venue: away
+  :result: win
+  :position: 4
+  :points: 43
+- :number: 26
+  :date: 2012-02-26
+  :opponent: Tottenham Hotspur
+  :venue: home
+  :result: win
+  :position: 4
+  :points: 46
+- :number: 27
+  :date: 2012-03-03
+  :opponent: Liverpool
+  :venue: away
+  :result: win
+  :position: 4
+  :points: 49
+- :number: 28
+  :date: 2012-03-12
+  :opponent: Newcastle United
+  :venue: home
+  :result: win
+  :position: 4
+  :points: 52
+- :number: 29
+  :date: 2012-03-21
+  :opponent: Everton
+  :venue: away
+  :result: win
+  :position: 3
+  :points: 55
+- :number: 30
+  :date: 2012-03-24
+  :opponent: Aston Villa
+  :venue: home
+  :result: win
+  :position: 3
+  :points: 58
+- :number: 31
+  :date: 2012-03-31
+  :opponent: Queens Park Rangers
+  :venue: away
+  :result: loss
+  :position: 3
+  :points: 58
+- :number: 32
+  :date: 2012-04-08
+  :opponent: Manchester City
+  :venue: home
+  :result: win
+  :position: 3
+  :points: 61
+- :number: 33
+  :date: 2012-04-11
+  :opponent: Wolverhampton Wndrs
+  :venue: away
+  :result: win
+  :position: 3
+  :points: 64
+- :number: 34
+  :date: 2012-04-16
+  :opponent: Wigan Athletic
+  :venue: home
+  :result: loss
+  :position: 3
+  :points: 64
+- :number: 35
+  :date: 2012-04-21
+  :opponent: Chelsea
+  :venue: home
+  :result: draw
+  :position: 3
+  :points: 65
+- :number: 36
+  :date: 2012-04-28
+  :opponent: Stoke City
+  :venue: away
+  :result: draw
+  :position: 3
+  :points: 66
+- :number: 37
+  :date: 2012-05-05
+  :opponent: Norwich City
+  :venue: home
+  :result: draw
+  :position: 3
+  :points: 67
+- :number: 38
+  :date: 2012-05-13
+  :opponent: West Bromwich Albion
+  :venue: away
+  :result: win
+  :position: 3
+  :points: 70
